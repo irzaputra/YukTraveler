@@ -1,0 +1,35 @@
+.h {
+    font-family: sans-serif;
+    position: absolute;
+    color: white;
+    top: 10px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 550px
+}
+.right {
+    font-family: sans-serif;
+    position: absolute;
+    color: white;
+    top: 100px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 450px
+}
+.left {
+    font-family: sans-serif;
+    position: absolute;
+    color: white;
+    top: 375px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 300px
+}
+body {
+    background-color: #3e504c;
+    background-image: url(../Bahan/candi2.jpg), url(../Bahan/candi5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0% 20%, 100% 85%;
+    background-size: 350px, 375px;
+}
