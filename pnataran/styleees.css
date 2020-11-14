@@ -1,0 +1,17 @@
+body {
+    background-color: #3e504c;
+    background-image: url(../Bahan/Acaraa.jpg), url(../Bahan/candi5.jpg), url(../Bahan/candi2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 10% 50%, 47% 50%, 90% 50%;
+    background-size: 300px, 375px, 350px;
+}
+.n {
+    font-family: sans-serif;
+    position: absolute;
+    color: white;
+    top: 20px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 550px
+}
