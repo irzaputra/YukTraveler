@@ -1,0 +1,78 @@
+/* Biar Tidak ada space */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Biar lurus navigasinya */
+ul {
+    display: flex;
+}
+
+/* ini buat navigasi jadi ke kanan*/
+
+ul {
+    float: right;
+}
+
+/* Biar Layout rapi*/
+
+.margin-1200 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+/* Hilangkan Bullet li*/
+    li {
+        list-style-type: none;
+    }
+
+
+/* Background Img */
+#full-img {
+    background: url(img/img1.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* random*/
+nav {
+    overflow: hidden;
+    width: 100%;
+    height: 100px;
+    background: fixed;
+    background-color: black;
+}
+nav a {
+    color: whitesmoke;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+ul {
+    margin: 40px 0 0 0;
+    text-decoration: none;
+}
+/* Text header&Body Text */
+.heading {
+    font-family: sans-serif;
+    position: absolute;
+    color: black;
+    top: 150px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 315px
+}
+.teks {
+    font-family: sans-serif;
+    position: absolute;
+    color: black;
+    top: 220px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 400px
+}
