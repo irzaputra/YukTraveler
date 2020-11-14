@@ -1,0 +1,27 @@
+.h{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200px;
+    position: absolute;
+    color: black;
+    top: 10px;
+    font-size: 20px;
+    margin-left: 550px;
+    text-indent: 25px;
+}
+.right{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200px;
+    position: absolute;
+    color: black;
+    top: 100px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 450px;
+}
+body{
+    background-image: url('candi prambanan1.jpg'), url('candi prambanan2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0.5% 20%, 0.5% 100%;
+    background-size: 350px,375px;
+}

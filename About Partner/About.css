@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-weight: century Gothic;
+    background: url('brdah.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.container{
+    height: 60vh;
+    width: 30%;
+    background: rgba(0, 0 ,0,.6);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%,-60%);
+    margin-right: 30px;
+}
+.images{
+    height: 70px;
+    width: 70px;
+    background:url('sepvi.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-60%,-60%);
+    margin-right: 30px;
+}
+.container h1{
+    color: white;
+    margin-top: 50px;
+}
+.container p{
+    color: white;
+    margin-top: 60px;
+    font-family: 'Rasa', serif;
+}

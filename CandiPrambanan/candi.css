@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('candiprambanan.jpg') no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 100px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 40px;
+    border: 1px solid transparent;
+}
+ul li a:hover{
+    background-color: black;
+    color: white;
+}
+.nav{
+    max-width: 1300px;
+    margin: auto;
+    font-family: 'Rasa', serif;
+    font-size: 40px;
+    overflow: hidden;
+}
+.line{
+    border: 1px solid white;
+    width: 40cm;
+    display: inline-block;
+}
+.teks{
+    font-size: 20px;
+    color: white;
+    font-weight: 300px;
+    justify-content: center;
+    font-family: 'Rasa', serif;
+}
+.teks1{
+    font-size: 20px;
+    color: white;
+    font-weight: 300px;
+    font-family: 'Rasa', serif;
+    margin-top: 40px;
+}

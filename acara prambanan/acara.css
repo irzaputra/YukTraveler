@@ -1,0 +1,25 @@
+.qwe{
+    font-family: 'Prompt', sans-serif;
+    position: absolute;
+    color: black;
+    top: 10px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 50px;
+}
+.we{
+    font-family: 'Prompt', sans-serif;
+    position: absolute;
+    color: black;
+    top: 150px;
+    font-size: 20px;
+    text-indent: 25px;
+    margin-left: 50px;
+}
+body{
+    background-image: url('sendratari.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 90% 50%;
+    background-size: 400px;
+}

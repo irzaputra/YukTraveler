@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.teks{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+body{
+    background-image: url('back.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.gambar1{
+    padding: 50px 10px;
+    margin-left: 30px;
+}
+.gambar2{
+    padding: 50px 10px;
+    margin-left: 30px;
+}
+.gambar3{
+    padding: 50px 10px;
+    margin-left: 30px;
+}
