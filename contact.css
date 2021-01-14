@@ -18,13 +18,19 @@ body{
 }
 .gambar1{
     padding: 50px 10px;
-    margin-left: 30px;
+    position: fixed;
+    margin-left: 500px;
+    top: 300px;
 }
 .gambar2{
     padding: 50px 10px;
-    margin-left: 30px;
+    position: fixed;
+    margin-left: 650px;
+    top: 300px;
 }
 .gambar3{
     padding: 50px 10px;
-    margin-left: 30px;
+    position: fixed;
+    margin-left: 800px;
+    top: 300px;
 }
